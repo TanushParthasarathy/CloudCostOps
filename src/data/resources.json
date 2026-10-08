@@ -1,0 +1,23 @@
+[
+    {
+        "name": "web-server-01",
+        "type": "VM",
+        "status": "running",
+        "cpu_utilization": 3,
+        "monthly_cost": 120
+    },
+    {
+        "name": "app-server-01",
+        "type": "VM",
+        "status": "running",
+        "cpu_utilization": 65,
+        "monthly_cost": 220
+    },
+    {
+        "name": "dev-server-01",
+        "type": "VM",
+        "status": "running",
+        "cpu_utilization": 2,
+        "monthly_cost": 95
+    }
+]
